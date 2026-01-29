@@ -20,9 +20,9 @@ I have successfully completed the following specialized modules:
 ## 📜 Professional Certifications
 In addition to hands-on labs, I am committed to formal security training:
 
-* **Foundations of Cybersecurity** | [cite_start]Google via Coursera [cite: 13, 17, 18]
-  * [cite_start]*Topics covered:* Security frameworks, risk management, and security controls[cite: 17, 18].
-  * [View Certificate](./Certifications/cert1-Coursera%20T4Y2UA7X60QB.pdf)
+* **Foundations of Cybersecurity** | Google via Coursera
+  * *Topics covered:* Security frameworks, risk management, and security controls.
+  * [View Certificate](./Certifications/Screenshot%202026-01-30%20021539.png)
     
 ## 🛠️ Technical Skill Set
 | Category | Tools & Concepts |
