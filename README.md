@@ -38,4 +38,4 @@ Based on my transcript, some of the key labs I have mastered include:
 - **Badge Focus:** Web Hacking, Network Security, and Offensive Operations.
 
 ---
-*“The more you sweat in peace, the less you bleed in war.” – Cybersecurity Proverb*
+
