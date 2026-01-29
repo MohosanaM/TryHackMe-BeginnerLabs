@@ -1,10 +1,35 @@
-# TryHackMe Lab: Offensive Security Intro
+# TryHackMe Cybersecurity Labs 🛡️⚔️
 
-Completed the "Offensive Security Intro" room on TryHackMe.  
-This lab introduced me to ethical hacking by simulating a legal and safe environment to hack a website.  
-I learned fundamental concepts of offensive security and how ethical hackers approach website vulnerabilities.  
+Welcome to my cybersecurity journey! This repository serves as a professional portfolio of the labs and challenges I have completed on [TryHackMe](https://tryhackme.com/p/MohosanaM). 
 
-Skills practiced: basic penetration testing, reconnaissance, and vulnerability assessment.  
+I am currently ranked in the **Top 5%** of users on the platform, demonstrating my commitment to continuous learning in ethical hacking and network security.
 
-Looking forward to tackling more advanced labs to deepen my cybersecurity expertise.
+## 🏆 Learning Paths & Certifications
+I have successfully completed the following specialized modules:
+* **Junior Penetration Tester:** Gained hands-on experience in the ethical hacking methodology.
+* **Network Exploitation:** Mastered tools like Nmap, Metasploit, and Netcat.
+* **Web Fundamentals:** Learned to identify and exploit vulnerabilities like SQL Injection and XSS.
+* **Linux Fundamentals:** Deep dive into the CLI and file system security.
 
+## 🛠️ Technical Skill Set
+| Category | Tools & Concepts |
+|---|---|
+| **Reconnaissance** | Nmap, Gobuster, Nikto, Whois |
+| **Exploitation** | Metasploit, Reverse Shells, Burp Suite |
+| **Privilege Escalation** | SUID Bits, Crontab Exploits, Linux Permissions |
+| **Networking** | OSI Model, TCP/IP, Wireshark, DNS |
+
+## 📁 Notable Rooms Completed
+Based on my transcript, some of the key labs I have mastered include:
+- ✅ **Blue:** Exploiting EternalBlue (MS17-010).
+- ✅ **Kenobi:** Exploiting Linux shares and SUID bits.
+- ✅ **Pickle Rick:** A fun web-based CTF.
+- ✅ **Vulnversity:** Active reconnaissance and web exploitation.
+
+## 📈 Stats & Progress
+- **Current Rank:** Top 5% 🚀
+- **Total Rooms Cleared:** 27+
+- **Badge Focus:** Web Hacking, Network Security, and Offensive Operations.
+
+---
+*“The more you sweat in peace, the less you bleed in war.” – Cybersecurity Proverb*
