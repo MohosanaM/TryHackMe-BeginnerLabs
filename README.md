@@ -17,12 +17,21 @@ I have successfully completed the following specialized modules:
 * **Web Fundamentals:** Learned to identify and exploit vulnerabilities like SQL Injection and XSS.
 * **Linux Fundamentals:** Deep dive into the CLI and file system security.
 
-## 📜 Professional Certifications
-In addition to hands-on labs, I am committed to formal security training:
+## 📜 Professional Certifications & Learning Paths
+I have successfully completed formal training and learning paths to build a strong security foundation:
 
-* **Foundations of Cybersecurity** | Google via Coursera
-  * *Topics covered:* Security frameworks, risk management, and security controls.
+* **Pre-Security Learning Path** | TryHackMe (Sept 26, 2025)
+  * *Focus:* Cyber Security 101, Networking, and Operating System Fundamentals.
+  * [View Path Certificate](./Certifications/Screenshot%202026-01-30%20024000.png)
+* **Foundations of Cybersecurity** | Google via Coursera (Sept 21, 2025)
+  * *Focus:* Security frameworks (NIST), risk management, and security controls.
   * [View Certificate](./Certifications/Screenshot%202026-01-30%20021539.png)
+
+## 🖥️ Operating Systems & Fundamentals Mastered
+Based on my recent lab completions, I am proficient in:
+* **Linux:** Linux Fundamentals (Parts 1-3) and shell scripting.
+* **Windows:** Windows Fundamentals (Parts 1-3), Command Line, and PowerShell.
+* **Networking:** OSI Model, DNS, HTTP, and Packet analysis.
     
 ## 🛠️ Technical Skill Set
 | Category | Tools & Concepts |
