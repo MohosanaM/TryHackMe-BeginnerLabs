@@ -1,6 +1,12 @@
 # TryHackMe Cybersecurity Labs 🛡️⚔️
 
-Welcome to my cybersecurity journey! This repository serves as a professional portfolio of the labs and challenges I have completed on [TryHackMe](https://tryhackme.com/p/MohosanaM). 
+<p align="left">
+  <a href="https://tryhackme.com/p/MohosanaM">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/maymunamohosana1.png" alt="Your Image Badge" />
+  </a>
+</p>
+
+Welcome to my cybersecurity journey! This repository serves as a professional portfolio of the labs and challenges I have completed on [TryHackMe](https://tryhackme.com/p/MohosanaM).. 
 
 I am currently ranked in the **Top 5%** of users on the platform, demonstrating my commitment to continuous learning in ethical hacking and network security.
 
